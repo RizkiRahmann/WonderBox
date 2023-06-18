@@ -1814,11 +1814,11 @@ ul.multi-column-dropdown li a:hover{
 /*-- coupons --*/
 .coupons,.banner-bootom-w3-agileits,.new_arrivals_agile_w3ls_info{
    padding:4em 0;
-   display: flex;
-   justify-content: center;
 }
 .w3layouts_mail_grid {
     padding: 0 1em;
+	display: flex;
+	justify-content: center;
 }
 .w3layouts_mail_grid_left1{
 	float: left;
