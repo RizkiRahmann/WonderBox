@@ -891,7 +891,7 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
     color: #565656;
 }
 .w3-address-right p a{
-    color: #040575;
+    color: #ecdd0d;
     text-decoration: none;
 }
 .w3-address-right p a:hover{
@@ -1819,6 +1819,7 @@ ul.multi-column-dropdown li a:hover{
     padding: 0 1em;
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 }
 .w3layouts_mail_grid_left1{
 	float: left;
@@ -5563,7 +5564,7 @@ p.w3ls_para {
 	width: 500px;
 }
 #mid{
-	height: 575px;
+	height: 481px;
 }
 #bb1{
 	height: 725px;

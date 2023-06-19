@@ -35,8 +35,8 @@
     bottom: -227px;
     margin: 0;
     left: 0;
-    background: rgba(35, 214, 178, 0.72);
-    padding: 1em;
+    background: rgba(74, 0, 170, 0.72);
+    /* padding: 1em; */
     -webkit-transition: .5s all;
     transition: .5s all;
     -moz-transition: .5s all;
